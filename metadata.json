@@ -1,0 +1,8 @@
+{
+  "name": "Remix DropWave - Dropshipping Product \u0026 Video Showcase",
+  "description": "منصة احترافية لعرض منتجات وفيديوهات الدروب شيبينج وروابط الشراء والموردين مع حاسبة الأرباح وواجهة ريلز ولينك إن بايو",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
